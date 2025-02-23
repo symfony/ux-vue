@@ -2,7 +2,16 @@
     "name": "@symfony/ux-vue",
     "description": "Integration of Vue.js in Symfony",
     "license": "MIT",
-    "version": "1.0.0",
+    "version": "2.23.0",
+    "keywords": [
+        "symfony-ux"
+    ],
+    "homepage": "https://ux.symfony.com/vue",
+    "repository": "https://github.com/symfony/ux-vue/tree/2.x",
+    "type": "module",
+    "files": [
+        "dist"
+    ],
     "main": "dist/register_controller.js",
     "types": "dist/register_controller.d.ts",
     "scripts": {
